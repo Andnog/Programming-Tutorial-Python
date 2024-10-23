@@ -1,6 +1,6 @@
 # 📝 Programming Tutorial with Python 🐍
 
-*Last update: 🗓️ Oct/2024*
+*Last update: 🗓️ Sep/2023*
 
 ---
 
