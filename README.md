@@ -14,7 +14,7 @@
 - [📜 License](#license)
 - [🙏 Acknowledgments](#acknowledgments)
 
-## 📚 Introduction
+## 📚 Introduction(#introduction)
 
 👋 Welcome to the **Programming Tutorial with Python** repository! This repository is a comprehensive resource aimed at sharing programming knowledge, using Python to explain concepts from 🟢 introductory topics to 🔵 more advanced ones. The resources include 📊 presentations, extensive code in Python notebooks 📓, exercises 🏋️, and examples 💡, all designed for self-taught learners to progress without the need for an instructor.
 
@@ -47,21 +47,21 @@ This repository can be used in the following ways:
 
 - **📊 Presentation**: [📘 Introduction to Programming](2%20-%20Programming%20Introduction/II%20-%20Intro_Programming%20(es).pdf)
 - **🐍 Python Notebooks**:
-  1. **[📓 Basic Rules](2%20-%20Programming%20Introduction/Notebooks/basic_rules_notebook.ipynb)**
-  2. **[🐍 Introduction to Python](2%20-%20Programming%20Introduction/Notebooks/basic_python.ipynb)**
-  3. **[📊 Data Structures](2%20-%20Programming%20Introduction/Notebooks/data_structure.ipynb)**
-  4. **[⚠️ Exception Handling](2%20-%20Programming%20Introduction/Notebooks/exception_handling.ipynb)**
-  5. **[🔧 Functions and Modules](2%20-%20Programming%20Introduction/Notebooks/functions_and_modules.ipynb)**
-  6. **[📚 Additional Resources](2%20-%20Programming%20Introduction/Notebooks/extra_resources.ipynb)**
-  7. **[📏 PEP 8 Guidelines](2%20-%20Programming%20Introduction/Notebooks/pep8.ipynb)**
+  1. **[📓 Basic Rules](2%20-%20Programming%20Introduction/Notebooks/0%20-%20Basic%20Rules%20Notebooks.ipynb)**
+  2. **[🐍 Introduction to Python](2%20-%20Programming%20Introduction/Notebooks/1%20-%20Basic%20Python.ipynb)**
+  3. **[📊 Data Structures](2%20-%20Programming%20Introduction/Notebooks/2%20-%20Data%20structure.ipynb)**
+  4. **[⚠️ Exception Handling](2%20-%20Programming%20Introduction/Notebooks/3%20-%20Exception%20Handling.ipynb)**
+  5. **[🔧 Functions and Modules](2%20-%20Programming%20Introduction/Notebooks/4%20-%20Functions%20and%20modules.ipynb)**
+  6. **[📚 Additional Resources](2%20-%20Programming%20Introduction/Notebooks/5%20-%20Extra%20resources.ipynb)**
+  7. **[📏 PEP 8 Guidelines](2%20-%20Programming%20Introduction/Notebooks/PEP8.ipynb)**
 
 ### Section III: [Object-Oriented Programming and Best Practices](2%20-%20Programming%20Introduction)
 
-- **📊 Presentation**: [🔄 Object-Oriented Programming (OOP)](3%20-%20Object-Oriented%20Programming%20(OOP)%20)
+- **📊 Presentation**: [🔄 Object-Oriented Programming (OOP)](3%20-%20Object-Oriented%20Programming%20(OOP)%20/III%20-%20Object%20Oriented%20Programming.pdf)
 - **🐍 Python Notebooks**:
-  1. **[🧱 Classes and Objects](3%20-%20Object-Oriented%20Programming%20(OOP)%20/Notebooks/class_and_objects.ipynb)**
-  2. **[🏛️ Four Pillars of OOP](3%20-%20Object-Oriented%20Programming%20(OOP)%20/Notebooks/four_pillars.ipynb)**
-  3. **[📐 SOLID Principles](3%20-%20Object-Oriented%20Programming%20(OOP)%20/Notebooks/solid_principles.ipynb)**
+  1. **[🧱 Classes and Objects](3%20-%20Object-Oriented%20Programming%20(OOP)%20/Notebooks/1.%20Class%20and%20objects.ipynb)**
+  2. **[🏛️ Four Pillars of OOP](3%20-%20Object-Oriented%20Programming%20(OOP)%20/Notebooks/2.%20Four%20pillars.ipynb)**
+  3. **[📐 SOLID Principles](3%20-%20Object-Oriented%20Programming%20(OOP)%20/Notebooks/3.%20SOLID%20Principles.ipynb)**
 
 ## 📜 License
 
