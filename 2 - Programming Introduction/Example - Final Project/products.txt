@@ -1,0 +1,28 @@
+1|iPhone 13
+2|Samsung Galaxy S21
+3|Google Pixel 6
+4|Sony PlayStation 5
+5|Nintendo Switch
+6|Apple Watch Series 7
+7|Dell XPS 15
+8|HP Spectre x360
+9|Microsoft Surface Laptop 4
+10|Bose QuietComfort 35 II
+11|Sony WH-1000XM4
+12|GoPro Hero 9 Black
+13|Canon EOS R5
+14|Nikon D850
+15|Samsung QLED Q90T
+16|LG OLED CX
+17|Sony Bravia A8H
+18|Apple MacBook Pro M1
+19|Lenovo ThinkPad X1 Carbon
+20|Logitech MX Master 3
+21|Amazon Echo Dot (4th Gen)
+22|Sonos Beam
+23|Philips Hue Starter Kit
+24|Dyson V11 Absolute
+25|Instant Pot Duo Nova
+26|Prueba
+28|Prueba 3
+29|Prueba 4
