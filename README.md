@@ -14,7 +14,7 @@
 - [📜 License](#license)
 - [🙏 Acknowledgments](#acknowledgments)
 
-## 📚 Introduction(#introduction)
+## 📚 [Introduction](#introduction)
 
 👋 Welcome to the **Programming Tutorial with Python** repository! This repository is a comprehensive resource aimed at sharing programming knowledge, using Python to explain concepts from 🟢 introductory topics to 🔵 more advanced ones. The resources include 📊 presentations, extensive code in Python notebooks 📓, exercises 🏋️, and examples 💡, all designed for self-taught learners to progress without the need for an instructor.
 
@@ -54,6 +54,10 @@ This repository can be used in the following ways:
   5. **[🔧 Functions and Modules](2%20-%20Programming%20Introduction/Notebooks/4%20-%20Functions%20and%20modules.ipynb)**
   6. **[📚 Additional Resources](2%20-%20Programming%20Introduction/Notebooks/5%20-%20Extra%20resources.ipynb)**
   7. **[📏 PEP 8 Guidelines](2%20-%20Programming%20Introduction/Notebooks/PEP8.ipynb)**
+- **📚 Excercises**: [basic programming, data structure and function challenges](2%20-%20Programming%20Introduction/Notebooks/Exercises)
+  - [Intro](2%20-%20Programming%20Introduction/Notebooks/Exercises/Intro-Challenges.ipynb)
+  - [Data Structure](2%20-%20Programming%20Introduction/Notebooks/Exercises/Data%20Structure%20-%20Challenges.ipynb)
+  - [Function](2%20-%20Programming%20Introduction/Notebooks/Exercises/Function%20-%20Challenges.ipynb)
 
 ### Section III: [Object-Oriented Programming and Best Practices](2%20-%20Programming%20Introduction)
 
@@ -62,6 +66,11 @@ This repository can be used in the following ways:
   1. **[🧱 Classes and Objects](3%20-%20Object-Oriented%20Programming%20(OOP)%20/Notebooks/1.%20Class%20and%20objects.ipynb)**
   2. **[🏛️ Four Pillars of OOP](3%20-%20Object-Oriented%20Programming%20(OOP)%20/Notebooks/2.%20Four%20pillars.ipynb)**
   3. **[📐 SOLID Principles](3%20-%20Object-Oriented%20Programming%20(OOP)%20/Notebooks/3.%20SOLID%20Principles.ipynb)**
+- **📚 Examples**: [OPP code examples](3%20-%20Object-Oriented%20Programming%20(OOP)%20/Notebooks/Examples)
+  - [Basic](3%20-%20Object-Oriented%20Programming%20(OOP)%20/Notebooks/Examples/1%20-%20Example%20OOP%20Basic.ipynb)
+  - [Medium](3%20-%20Object-Oriented%20Programming%20(OOP)%20/Notebooks/Examples/2%20-%20Example%20OOP%20Medium.ipynb)
+  - [Advance](3%20-%20Object-Oriented%20Programming%20(OOP)%20/Notebooks/Examples/3%20-%20Example%20OOP%20Advance.ipynb)
+- **📚 Excercises**: [Challenges](3%20-%20Object-Oriented%20Programming%20(OOP)%20/Notebooks/Excercises)
 
 ## 📜 License
 
