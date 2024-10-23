@@ -6,15 +6,15 @@
 
 ## 📑 Table of Contents
 
-- [📚 Introduction](#introduction)
-- [🚀 Getting Started](#getting-started)
-  - [🛠️ Prerequisites](#prerequisites)
-- [📖 Usage](#usage)
-- [🗂️ Contents](#contents)
-- [📜 License](#license)
-- [🙏 Acknowledgments](#acknowledgments)
+- 📚 Introduction
+- 🚀 Getting Started
+  - 🛠️ Prerequisites
+- 📖 Usage
+- 🗂️ Contents
+- 📜 License
+- 🙏 Acknowledgments
 
-## 📚 [Introduction](#introduction)
+## 📚 Introduction
 
 👋 Welcome to the **Programming Tutorial with Python** repository! This repository is a comprehensive resource aimed at sharing programming knowledge, using Python to explain concepts from 🟢 introductory topics to 🔵 more advanced ones. The resources include 📊 presentations, extensive code in Python notebooks 📓, exercises 🏋️, and examples 💡, all designed for self-taught learners to progress without the need for an instructor.
 
