@@ -41,11 +41,11 @@ This repository can be used in the following ways:
 
 ### Section I: [Introduction and Fundamentals of Information Technologies (IT) Concepts](1%20-%20IT%20Fundamentals)
 
-- **📊 Presentation**: [Covers the 🕰️ history of IT, fundamental and advanced concepts, recent advancements, and important considerations.](1%20-%20IT%20Fundamentals/I%20-%20Intro_IT%20(es).pdf)
+- **📊 Presentation**: [Covers the 🕰️ history of IT, fundamental and advanced concepts, recent advancements, and important considerations.](1%20-%20IT%20Fundamentals/I%20-%20Intro_IT%20(en).pdf)
 
 ### Section II: [Introduction and Programming Basics](2%20-%20Programming%20Introduction)
 
-- **📊 Presentation**: [📘 Introduction to Programming](2%20-%20Programming%20Introduction/II%20-%20Intro_Programming%20(es).pdf)
+- **📊 Presentation**: [📘 Introduction to Programming](2%20-%20Programming%20Introduction/II%20-%20Intro_Programming%20(en).pdf)
 - **🐍 Python Notebooks**:
   1. **[📓 Basic Rules](2%20-%20Programming%20Introduction/Notebooks/0%20-%20Basic%20Rules%20Notebooks.ipynb)**
   2. **[🐍 Introduction to Python](2%20-%20Programming%20Introduction/Notebooks/1%20-%20Basic%20Python.ipynb)**
@@ -61,7 +61,7 @@ This repository can be used in the following ways:
 
 ### Section III: [Object-Oriented Programming and Best Practices](2%20-%20Programming%20Introduction)
 
-- **📊 Presentation**: [🔄 Object-Oriented Programming (OOP)](3%20-%20Object-Oriented%20Programming%20(OOP)%20/III%20-%20Object%20Oriented%20Programming.pdf)
+- **📊 Presentation**: [🔄 Object-Oriented Programming (OOP)](3%20-%20Object-Oriented%20Programming%20(OOP)%20/III%20-%20Object%20Oriented%20Programming%20(en).pdf)
 - **🐍 Python Notebooks**:
   1. **[🧱 Classes and Objects](3%20-%20Object-Oriented%20Programming%20(OOP)%20/Notebooks/1.%20Class%20and%20objects.ipynb)**
   2. **[🏛️ Four Pillars of OOP](3%20-%20Object-Oriented%20Programming%20(OOP)%20/Notebooks/2.%20Four%20pillars.ipynb)**
