@@ -45,7 +45,7 @@ This repository can be used in the following ways:
 
 ### Section II: [Introduction and Programming Basics](2%20-%20Programming%20Introduction)
 
-- **📊 Presentation**: [📘 Introduction to Programming](2%20-%20Programming%20Introduction/II%20-%20Intro_Programming%20(en).pdf)
+- **📊 Presentation**: [📘 Introduction to Programming](2%20-%20Programming%20Introduction/II%20Object%20Oriented%20Programming%20(en).pdf)
 - **🐍 Python Notebooks**:
   1. **[📓 Basic Rules](2%20-%20Programming%20Introduction/Notebooks/0%20-%20Basic%20Rules%20Notebooks.ipynb)**
   2. **[🐍 Introduction to Python](2%20-%20Programming%20Introduction/Notebooks/1%20-%20Basic%20Python.ipynb)**
